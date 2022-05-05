@@ -7,7 +7,7 @@
 <!--
 Generate all static Pod manifest files
 -->
-生成所有的静态 Pod 清单文件
+成所有的态 Pod 清单文件
 
 ```
 kubeadm init phase control-plane all [flags]
